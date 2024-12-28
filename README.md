@@ -42,9 +42,9 @@ This project reveals important factors influencing building energy efficiency an
 ## Usage
 
 1. Clone the repository and navigate to the folder.
-2. Ensure all dependencies are installed (listed in `requirements.txt` if available).
-3. Run `ber.py` to execute the classification analysis.
-
+2. Download the dataset from the BER Research Tool and save it as BERPublicsearch.csv in the project directory.
+3. Ensure all dependencies are installed (refer to requirements.txt if available).
+4. Run ber.py to execute the classification analysis.
 ## License
 
 This project is for educational purposes, part of the Data Mining module assessment.
